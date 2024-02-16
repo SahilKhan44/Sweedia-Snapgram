@@ -1,4 +1,4 @@
-Sweedia-Snapgram - https://sweedia-snapgram.vercel.app/
+Sweedia-Snapgram
 Sweedia-Snapgram is a modern social networking application with a native mobile feel, stunning UI, and exceptional performance. It is built with React JS, Appwrite, TypeScript, and more.
 
 Features
@@ -8,15 +8,13 @@ Special Tech Stack: Built with Appwrite for backend services, ensuring security,
 Infinite Scroll: Implements infinite scroll feature for smooth navigation through content.
 Amazing Performance: Optimized for speed and performance to deliver a snappy user experience.
 Tech Stack
-Frontend:
-
+Frontend
 React JS
 TypeScript
 Redux (optional for state management)
 Styled Components (for styling)
 React Router (for routing)
-Backend:
-
+Backend
 Appwrite
 Node.js (if additional server-side logic is required)
 MongoDB (optional for data storage)
@@ -55,6 +53,9 @@ Open the app in your browser:
 
 Navigate to http://localhost:3000 to view the app.
 
+Preview
+You can view a live preview of Sweedia-Snapgram here - https://sweedia-snapgram.vercel.app.
+
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -65,4 +66,3 @@ Push to the branch (git push origin feature/YourFeature).
 Create a new Pull Request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
