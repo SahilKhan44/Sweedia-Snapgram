@@ -16,7 +16,7 @@ export default function AuthLayout() {
           </section>
 
           <img
-            src="/assets/images/side-img.svg"
+            src="https://cdn.midjourney.com/ae9a5b4e-2537-45ac-ad35-9ad8428ba338/0_0.webp"
             alt="logo"
             className="hidden xl:block h-screen w-1/2 object-cover bg-no-repeat"
           />
